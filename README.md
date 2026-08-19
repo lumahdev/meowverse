@@ -1,4 +1,4 @@
-# Meowverse
+# 🛍️ Loja Virtual Meowverse
 
 **Meowverse** é uma loja virtual que vende figuras colecionáveis, guiando o cliente por toda a experiência de compra e finalizando o processo com sucesso. Este projeto foi meu Trabalho de Conclusão de Curso para a disciplina de Técnico em Desenvolvimento Web, sendo, portanto, meu primeiro projeto full-stack. A modularização e o design do projeto não são os melhores e serão aprimorados no futuro, assim como a lógica do código e a refatoração.
 
